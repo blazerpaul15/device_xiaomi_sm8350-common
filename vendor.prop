@@ -135,7 +135,8 @@ ro.bluetooth.a2dp_offload.supported=true
 camera.disable_zsl_mode=true
 
 # Chipset
-ro.soc.manufacturer=QTI
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=SM8350
 
 # Crypto
 ro.crypto.dm_default_key.options_format.version=2
